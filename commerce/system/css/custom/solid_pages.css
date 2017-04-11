@@ -1,0 +1,89 @@
+.page-yellow
+  {
+ 
+    background:linear-gradient(#ffe066,#ffdb4d,#ffd633,#ffd11a,#ffcc00);
+    box-shadow: 0px 0px 5px black;
+ 
+    overflow: hidden;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    text-shadow: 0px 0px 5px black;
+    float: left;
+    border-radius: 3px;
+  }
+   .page-green
+  {
+    width: 300px;
+    height: 200px;
+    background:linear-gradient(#009900,#008000,#006600,#004d00,#003300);
+    box-shadow: 0px 0px 5px black;
+    margin: 20px;
+    overflow: hidden;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    text-shadow: 0px 0px 5px black;
+    float: left;
+    border-radius: 3px;
+  }
+    .page-blue
+  {
+    width: 300px;
+    height: 200px;
+    background:linear-gradient(#0059b3,#004d99,#004080,#003366,#00264d);
+    box-shadow: 0px 0px 5px black;
+    margin: 20px;
+    overflow: hidden;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    text-shadow: 0px 0px 5px black;
+    float: left;
+    border-radius: 3px;
+  }
+     .page-orange
+  {
+    width: 300px;
+    height: 200px;
+    background:linear-gradient(#ffa31a,#ff9900,#e68a00,#cc7a00,#b36b00);
+    box-shadow: 0px 0px 5px black;
+    margin: 20px;
+    overflow: hidden;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    text-shadow: 0px 0px 5px black;
+    float: left;
+    border-radius: 3px;
+  }
+       .page-default
+  {
+    width: 300px;
+    height: 200px;
+    background:linear-gradient(#ffffff,#f2f2f2);
+    box-shadow: 0px 0px 1px black;
+    margin: 20px;
+    overflow: hidden;
+    color: #737373;
+    font-size: 15px;
+    font-weight: bold;
+    
+    float: left;
+    border-radius: 3px;
+  }
+       .page-red
+  {
+    width: 300px;
+    height: 200px;
+    background:linear-gradient(#ff794d,#ff6633,#ff531a,#ff4000,#e63900);
+    box-shadow: 0px 0px 5px black;
+    margin: 20px;
+    overflow: hidden;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    text-shadow: 0px 0px 1px black;
+    float: left;
+    border-radius: 3px;
+  }

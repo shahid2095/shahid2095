@@ -1,0 +1,156 @@
+.yellow-grade{
+    background: yellow; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#ffebcc,#ffe0b3,#ffd699,#ffcc80,#ffc266,#ffb84d); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#ffebcc,#ffe0b3,#ffd699,#ffcc80,#ffc266,#ffb84d); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#ffebcc,#ffe0b3,#ffd699,#ffcc80,#ffc266,#ffb84d); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#ffebcc,#ffe0b3,#ffd699,#ffcc80,#ffc266,#ffb84d); /* Standard syntax */
+    font-size: 18px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #e6b800;
+    border-radius: 3px;
+    font-weight: lighter;
+    color: #4d4d4d;
+    padding: 2px 20px;
+}
+
+.yellow-grade a
+{
+    text-decoration: none;
+}
+
+.blue-grade a
+{
+    text-decoration: none;
+}
+
+
+.yellow-grade:active
+{
+	   background: white; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#ffebcc,#ffe0b3,#ffd699); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#ffebcc,#ffe0b3,#ffd699); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#ffebcc,#ffe0b3,#ffd699); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#ffebcc,#ffe0b3,#ffd699); /* Standard syntax */
+}
+.blue-grade{
+    background: blue; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#cce6ff,#b3daff,#99ceff,#80c1ff,#66b5ff,#4da9ff); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#cce6ff,#b3daff,#99ceff,#80c1ff,#66b5ff,#4da9ff); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#cce6ff,#b3daff,#99ceff,#80c1ff,#66b5ff,#4da9ff); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#cce6ff,#b3daff,#99ceff,#80c1ff,#66b5ff,#4da9ff); /* Standard syntax */
+    font-size: 18px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #3399ff;
+    border-radius: 3px;
+    font-weight: lighter;
+    color: #ffffff;
+    padding: 2px 20px;
+}
+
+.blue-grade:active
+{
+       background: lightblue; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#80c1ff,#66b5ff,#4da9ff); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#80c1ff,#66b5ff,#4da9ff); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#80c1ff,#66b5ff,#4da9ff); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#80c1ff,#66b5ff,#4da9ff); /* Standard syntax */
+}
+
+.default-grade
+{
+   background: gray; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#d9d9d9,#cccccc,#bfbfbf,#b3b3b3,#a6a6a6,#999999); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#d9d9d9,#cccccc,#bfbfbf,#b3b3b3,#a6a6a6,#999999); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#d9d9d9,#cccccc,#bfbfbf,#b3b3b3,#a6a6a6,#999999); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#d9d9d9,#cccccc,#bfbfbf,#b3b3b3,#a6a6a6,#999999); /* Standard syntax */
+    font-size: 18px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #737373;
+    border-radius: 3px;
+    font-weight: lighter;
+    color: #ffffff;
+    padding: 2px 20px;
+}
+
+.default-grade:active
+{
+       background: lightblue; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#d9d9d9,#cccccc,#bfbfbf); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#d9d9d9,#cccccc,#bfbfbf); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#d9d9d9,#cccccc,#bfbfbf); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#d9d9d9,#cccccc,#bfbfbf); /* Standard syntax */
+}
+
+
+.warning-grade
+{
+   background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#d9d9d9,#ff9980,#ff8566,#ff704d,#ff5c33,#ff471a); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#d9d9d9,#ff9980,#ff8566,#ff704d,#ff5c33,#ff471a); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#d9d9d9,#ff9980,#ff8566,#ff704d,#ff5c33,#ff471a); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#d9d9d9,#ff9980,#ff8566,#ff704d,#ff5c33,#ff471a); /* Standard syntax */
+    font-size: 18px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #ff471a;
+    border-radius: 3px;
+    font-weight: lighter;
+    color: #ffffff;
+    padding: 2px 20px;
+}
+
+.warning-grade:active
+{
+       background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#d9d9d9,#ff9980,#ff8566); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#d9d9d9,#ff9980,#ff8566); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#d9d9d9,#ff9980,#ff8566); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#d9d9d9,#ff9980,#ff8566); /* Standard syntax */
+}
+
+
+
+.solid-grade
+{
+   background: #00264d; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#0080ff,#0073e6,#0066cc,#0059b3); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#0080ff,#0073e6,#0066cc,#0059b3); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#0080ff,#0073e6,#0066cc,#0059b3); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#0080ff,#0073e6,#0066cc,#0059b3); /* Standard syntax */
+    font-size: 18px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #004d99;
+    border-radius: 3px;
+    font-weight: lighter;
+    color: #ffffff;
+    padding: 2px 20px;
+}
+
+.solid-grade:active
+{
+       background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#80bfff,#0073e6,#0066cc,#0059b3); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#80bfff,#0073e6,#0066cc,#0059b3); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#80bfff,#0073e6,#0066cc,#0059b3); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#80bfff,#0073e6,#0066cc,#0059b3); /* Standard syntax */
+}
+
+.round-default
+{
+    border-radius:50%;
+    padding:2px;
+    margin-left: 5px;
+    background:radial-gradient(#ffffff,#f2f2f2);
+    border-style: solid;
+    border-width: thin;
+}
+
+
+.round-default:active
+{
+    padding:5px;
+}

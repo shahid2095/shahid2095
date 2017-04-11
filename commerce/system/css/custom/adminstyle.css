@@ -1,0 +1,27 @@
+#sub_ajax_return
+{
+	font-weight: bold;
+}
+#two_sub_ajax_return
+{
+	font-weight: bold;
+}
+.filter-link
+{
+	box-shadow: 0px 0px 1px green;
+	margin: 5px;
+	padding: 5px;
+}
+
+#level_two_filter_box
+{
+	height: 700px;
+	overflow-y:auto;
+	box-shadow: 0px 0px 2px black;
+}
+
+#ajax-return
+{
+	padding: 10px;
+}
+

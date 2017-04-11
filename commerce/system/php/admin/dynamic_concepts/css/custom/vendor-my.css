@@ -1,0 +1,55 @@
+.my-title
+{
+	box-shadow: 0px 0px 5px black;
+	padding:10px;
+	font-size: 18px;
+	background: linear-gradient(#3399ff,#1a8cff,#0080ff,#004d99);
+	color: #ffffff;
+}
+
+.gen-text
+{
+	box-shadow: 0px 0px 1px green;
+	padding:10px;
+	font-size: 18px;
+}
+
+h1
+{
+	font-size: 18px;
+	margin-left: 20px;
+}
+
+.status
+{
+	box-shadow: 0px 0px 5px green;
+	padding:10px;
+	font-size: 18px;
+	margin-left: 20px;
+}
+
+.my-title2
+{
+	box-shadow: 0px 0px 1px black;
+	padding:10px;
+	font-size: 18px;
+	background: linear-gradient(#ffffff,#fff3e6,#ffe6cc,#ffdab3);
+	
+}
+
+.text-notify
+{
+	box-shadow: 0px 0px 1px #0066cc;
+	padding:10px;
+	font-size: 18px;
+	background: linear-gradient(#ffffff,#e6f3ff,#cce6ff);
+	margin-bottom: 5px;
+	
+}
+
+.products img
+{
+	width: 150px;
+	height:160px;
+	border-radius:5px;
+}
